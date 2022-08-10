@@ -1,12 +1,12 @@
 html {
-  cursor: none;
+  cursor: pointer;
 }
 
 body {
-  background: #C9DBDB;
-  background: -moz-linear-gradient(45deg, #C9DBDB 0%, #FFFFFF 100%);
-  background: -webkit-linear-gradient(45deg, #C9DBDB 0%, #FFFFFF 100%);
-  background: linear-gradient(45deg, #C9DBDB 0%, #FFFFFF 100%);
+  background: #F85E00;
+  background: -moz-linear-gradient(45deg, #F85E00 0%, #FEF5EF 100%);
+  background: -webkit-linear-gradient(45deg, #F85E00 0%, #FEF5EF 100%);
+  background: linear-gradient(45deg, #F85E00 0%, #FEF5EF 100%);
   font-family: helvetica, serif;
 }
 
